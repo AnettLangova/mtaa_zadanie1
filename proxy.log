@@ -1,0 +1,43 @@
+22:44:01:INFO:User mobil@192.168.2.16 called to user tablet@192.168.2.16.
+22:44:09:INFO:User tablet@192.168.2.16 answered the call to user mobil@192.168.2.16.
+22:44:09:INFO:User tablet@192.168.2.16 answered the call to user mobil@192.168.2.16.
+22:44:21:INFO:User tablet@192.168.2.16 ended the call to user mobil@192.168.2.16.
+
+22:48:00:INFO:User tablet@192.168.2.16 called to user mobil@192.168.2.16.
+22:48:06:INFO:User mobil@192.168.2.16 rejected the call.
+
+22:52:29:INFO:User mobil@192.168.2.16 called to user tablet@192.168.2.16.
+22:52:37:INFO:User mobil@192.168.2.16 ended the call to user tablet@192.168.2.16.
+
+22:59:06:INFO:User anett@192.168.2.16 called to user tablet@192.168.2.16.
+22:59:06:INFO:User anett@192.168.2.16 called to user mobil@192.168.2.16.
+22:59:09:INFO:User mobil@192.168.2.16 answered the call to user anett@192.168.2.16.
+22:59:12:INFO:User tablet@192.168.2.16 answered the call to user anett@192.168.2.16.
+22:59:27:INFO:User tablet@192.168.2.16 ended the call to user anett@192.168.2.16.
+
+22:59:30:INFO:User anett@192.168.2.16 ended the call to user mobil@192.168.2.16.
+
+23:01:10:INFO:User tablet@192.168.2.16 called to user anett@192.168.2.16.
+23:01:28:INFO:User anett@192.168.2.16 rejected the call.
+
+23:01:41:INFO:User tablet@192.168.2.16 called to user mobil@192.168.2.16.
+23:01:45:INFO:User mobil@192.168.2.16 answered the call to user tablet@192.168.2.16.
+23:02:00:INFO:User mobil@192.168.2.16 ended the call to user tablet@192.168.2.16.
+
+23:02:01:INFO:User tablet@192.168.2.16 called to user mobil@192.168.2.16.
+23:02:01:INFO:User tablet@192.168.2.16 called to user anett@192.168.2.16.
+23:02:01:INFO:User mobil@192.168.2.16 answered the call to user tablet@192.168.2.16.
+23:02:07:INFO:User anett@192.168.2.16 answered the call to user tablet@192.168.2.16.
+23:02:23:INFO:User anett@192.168.2.16 ended the call to user tablet@192.168.2.16.
+
+23:02:32:INFO:User mobil@192.168.2.16 ended the call to user tablet@192.168.2.16.
+
+23:04:29:INFO:User mobil@192.168.2.16 called to user anett@192.168.2.16.
+23:04:35:INFO:User anett@192.168.2.16 rejected the call.
+
+23:04:51:INFO:User mobil@192.168.2.16 called to user tablet@192.168.2.16.
+23:04:54:INFO:User tablet@192.168.2.16 answered the call to user mobil@192.168.2.16.
+23:04:57:INFO:User mobil@192.168.2.16 called to user tablet@192.168.2.16.
+23:05:00:INFO:User tablet@192.168.2.16 answered the call to user mobil@192.168.2.16.
+23:05:06:INFO:User tablet@192.168.2.16 ended the call to user mobil@192.168.2.16.
+
