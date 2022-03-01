@@ -63,6 +63,8 @@ Súbor *proxy.log* ako ukážka je priložený.
 
 ### Úprava SIP stavových kódov z zdrojovom kóde proxy
 Vyššie som opísala, ktoré stavové kódy som upravila, ako vidno na obrázku v súbore *register.pcapng*.
+
+![snimka stavovych kodov v pcapng subore](./ukazka1.png)
  
 ## Repozitár na zdrojový kód s prislúchajúcimi súbormi
 
